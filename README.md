@@ -23,4 +23,4 @@ Game Over Screen:
 ![Game Over Screen](Assets/Images/RushSetGo_GameOver.png)
 
 Build: 
-![Win_Build](Assets/Build/RushSetGo_Windows.zip)
+![Win_Build](Assets/Build)
