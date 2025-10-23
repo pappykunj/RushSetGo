@@ -11,10 +11,10 @@ Avoid obstacles, collect coins and food, and push your limits to achieve the hig
 Screenshots:
 
 Main Menu:
-![Main Menu](Assets\Images\RushSetGo_MainMenu.png)
+![Main Menu](Assets/Images/RushSetGo_MainMenu.png)
 
 Game Scene:
-![Game Scene](Assets\Images\RushSetGo_GameScene.png)
+![Game Scene](Assets/Images/RushSetGo_GameScene.png)
 
 Game Over Screen:
-![Game Over Screen](Assets\Images\RushSetGo_GameOver.png)
+![Game Over Screen](Assets/Images/RushSetGo_GameOver.png)
